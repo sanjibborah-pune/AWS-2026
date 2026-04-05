@@ -76,6 +76,8 @@ Possible causes:
 When debugging connectivity issues, check the path end to end. Do not randomly guess. Follow the traffic.
 
 ---
+![Uploading image.png…]()
+
 
 ## 1. Security Groups
 
