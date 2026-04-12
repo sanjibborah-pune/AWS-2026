@@ -1,4 +1,4 @@
-# 🧪 AWS Lab: Attack Detection Setup (End-to-End)
+# 🧪 AWS Lab:Attack Detection Setup (End-to-End)
 
 <img width="1827" height="717" alt="image" src="https://github.com/user-attachments/assets/319aefa7-2383-44c1-ae51-0458b56bf3ac" />
 
