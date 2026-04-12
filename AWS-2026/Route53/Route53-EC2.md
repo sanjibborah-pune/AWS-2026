@@ -1,6 +1,6 @@
 #Lab: 
 
-## Concept: CloudFront Multi-Origin with Route 53, Private EC2 (VPC Origin), and Private S3 (OAC)
+## Concept: CloudFront Multi-Origin with Route 53, and Private S3 (OAC)
 
 ### Phase 1:
 - Create a Public Hosted Zone in Route 53

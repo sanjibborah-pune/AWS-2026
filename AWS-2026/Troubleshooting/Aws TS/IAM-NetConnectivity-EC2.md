@@ -76,6 +76,9 @@ Possible causes:
 When debugging connectivity issues, check the path end to end. Do not randomly guess. Follow the traffic.
 
 ---
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/97732e3f-8642-496a-be01-5eca270b9770" />
+
+
 
 ## 1. Security Groups
 
