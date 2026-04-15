@@ -9,7 +9,7 @@
    - private ec2
    - security group for ec2 and Interface endpoints
    - SSM
-   - 3 Interface endpoints
+   - 3 Interface endpoints (com.amazonaws.us-east-1.ssm, 
 4. IAM role
    - SSM
    - for first ec2
